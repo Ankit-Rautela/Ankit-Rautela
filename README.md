@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-rautela&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-rautela" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://ar-project-client-3glb9vn17-ankit-rautelas-projects.vercel.app/Home)
+- 🔭 I’m currently working on [My portfolio](https://ar-project-client.vercel.app/Home)
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
