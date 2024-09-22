@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-rautela&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-rautela" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://ar-project-client.vercel.app/Home)
+- 🔭 I’m currently working on [My portfolio](https://ankit-rautela.com/Home)
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ankitrautela044@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wrslu5V4OOpb5cUCd-7tVi1Q2qbcM4lH/view?usp=sharing](https://drive.google.com/file/d/1wrslu5V4OOpb5cUCd-7tVi1Q2qbcM4lH/view?usp=sharing)
+- 📄 Know about my experiences [Visit Resume](https://drive.google.com/file/d/1WmksHnXxsAZ3Qr6gA__vV-jousMcTqs6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
