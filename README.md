@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ankitrautela044@gmail.com**
 
-- 📄 Know about my experiences [Visit Resume](https://drive.google.com/file/d/1tGyYEkU6YPLTJNGXXHdy5-CZMgk3Wy6f/view?usp=sharing)
+- 📄 Know about my experiences [Visit Resume](https://drive.google.com/file/d/1soLrWKplrnhDsllujZd7BGNz0JCra-A_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
